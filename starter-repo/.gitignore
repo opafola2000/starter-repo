@@ -44,3 +44,5 @@ Thumbs.db
 
 # Deployment artifacts
 .gcloudignore
+.env
+.venv
